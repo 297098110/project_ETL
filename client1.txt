@@ -1,4 +1,4 @@
 Hello GIT!
 Byebye SVN!
-Wait,Something I forgot is "My brain".
-You should make sure what you really want to do.
+Wait,Something I forgot is "My bag".
+You should make sure what you want to do.
