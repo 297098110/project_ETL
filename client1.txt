@@ -1,3 +1,4 @@
 Hello GIT!
 Byebye SVN!
 Wait,Something I forgot.
+You should make sure what you really want to do.
