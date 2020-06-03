@@ -1,0 +1,3 @@
+Hello GIT!
+Byebye SVN!
+Wait,Something I forgot.
